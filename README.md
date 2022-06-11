@@ -20,3 +20,6 @@ This is as simple as adding the files into your project.
 
 # Final Result
 ![Third Person Character Script](/ThirdPersonCharacterView.png)
+
+#### Note
+* If you have problems with the camera configuration I highly recommend to remove the Rigidbody component from the 'Third Person Player'
