@@ -3,7 +3,15 @@ This is a Third Person Character Template to be used in Unity Engine and integra
 ![Third Person Character Demo](/ThirdPersonCharacter.png)
 ## How does this assets work?
 This is as simple as adding the files into your project.
-
+## ThirdPersonControllerV2
+The script has the functionality to:
+* Set Animation to Idle.
+* Set Animation to Walk.
+* Set Animation to Run.
+* Set Animation to Jump.
+* Set Animation to Crouch.
+* Set Animation to Walk Crouched.
+* Modify all variable and custome attributes.
 ### Steps
 1) Add the 'Third Person Character' prefab into your scene.
    ![Third Person Character Prefab](/ThirdPersonCharacterPrefab.png)
