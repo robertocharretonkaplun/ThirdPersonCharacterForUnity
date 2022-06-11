@@ -17,3 +17,6 @@ This is as simple as adding the files into your project.
    ![Third Person Character Script](/ThirdPersonCameraScript.png)
 7) Adjust the camera position to follow the target in the correct way.
 8) Adjust the script variables to your preference.
+
+# Final Result
+![Third Person Character Script](/ThirdPersonCharacterView.png)
